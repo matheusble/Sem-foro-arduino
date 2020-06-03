@@ -1,7 +1,7 @@
 # Semaforo-arduino
 Semáforo feito no arduino com botão para passagem de pedestres com contador de 10 segundos.
 
-<h3>Pré requisitos<h3>
+<b>Pré requisitos<b>
   
 Versão 8.6 ou superior do Proteus.
 Biblioteca externa disponível no link abaixo.
